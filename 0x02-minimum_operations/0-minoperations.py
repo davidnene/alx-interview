@@ -23,4 +23,3 @@ def minOperations(n):
             n = n / min_ops
         min_ops += 1
     return ops
-    
