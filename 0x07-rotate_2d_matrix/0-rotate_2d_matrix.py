@@ -29,4 +29,3 @@ def rotate_2d_matrix(matrix):
             matrix[i][last] = top
 
     return matrix
-    
